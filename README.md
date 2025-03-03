@@ -4,7 +4,7 @@ This repository contains my CA assignments from the Universal Design and Assisti
 
 For this assignment, I conducted an accessibility audit of an existing **Wayfinding App (Google Maps)** to evaluate its compliance with Universal Design principles.  
 
-# Key Tasks
+### Key Tasks:
 
 - Assessed the app using the Seven Principles of Universal Design, identifying strengths and weaknesses.  
 - Proposed an improved wayfinding app with:  
